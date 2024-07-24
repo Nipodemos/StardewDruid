@@ -1,0 +1,6 @@
+"DialogueData.1162": "The fallen one eludes me yet",
+"DialogueData.1173": "Gross, cheese is for crackers, not humans",
+Jester is a name for a being or it is "a professional joker or “fool” at a medieval court" as google suggests?
+"DialogueData.1300": "Yea, tell them woodface! Who's hiding in caves now?", what woodface means?
+
+parei na linha 515
